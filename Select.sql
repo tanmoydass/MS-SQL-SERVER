@@ -1,0 +1,3 @@
+SELECT * FROM STUDENT;
+
+SELECT studentRoll,studentName FROM STUDENT;

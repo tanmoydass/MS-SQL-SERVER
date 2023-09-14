@@ -1,0 +1,8 @@
+USE SAMPLE_DB;
+
+GO
+
+DECLARE @A INT=8;
+SELECT @A;
+
+GO
